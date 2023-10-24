@@ -15,16 +15,24 @@ Tagline : Kecepatan yang dipastikan
 campaign :
 
 Target User : 
+        
         *usia 12+
+        
         *seorang yang senang mencari informasi terkini
+        
         *seorang yang gemar bermain game online
+        
         *seorang teknisi jaringan
         
 User Experience Theme : 
+        
         *mudah
+        
         *cepat
+        
         *sederhana
-        *inspirasi desain :
+        
+        *inspirasi desain : 
 
 ## 2. User Story
 
@@ -55,16 +63,20 @@ flowchart TD
 
 ## 5. Teknologi, Library, dan Framework
 
-*Teknologi :
-1. laptop
-2. internet
+Teknologi :
+
+       *laptop
+
+       *internet
 
 *Library :
-
+       
+       *npm install speedtest-net
 
 ## 6. Desain User Experience dan User Interface
 
-![Contoh](https://imgur.com/a/fQ0JGuo)
+![Prototype aplikasi](https://![Desain](https://github.com/Alfianad/speedtest/assets/144650032/73647645-4133-45a5-941c-6d2384f6ec91)
+)
 
 ## 7. Demonstrasi Video
 

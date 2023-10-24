@@ -36,39 +36,8 @@ Pengguna | membandingkan kecepatan jaringan | bisa memilih jaringan paling cepat
 ## 3. Struktur Data 
 
 ```mermaid
-erDiagram
-    PENGGUNA ||--o{ APLIKASI : gunakan
-    PENGGUNA {
-        1 aplikasi
-        2 website
-    }
-    APLIKASI ||--|{ SISTEM : tersusun
-    APLIKASI {
-        1 speedtest
-        2 histori
-    }
-    SISTEM {
-        1 node.js
-        2 css
-    }
-```
-erDiagram
-    PENGGUNA ||--o{ APLIKASI : gunakan
-    PENGGUNA {
-       1 aplikasi
-       2 website
-    }
-    APLIKASI ||--|{ SISTEM : tersusun
-    APLIKASI {
-        1 speedtest
-        2 history
-        3 setting
-    }
-    SISTEM {
-        1 css
-        2 node.js
-        3 vscode
-    }
+APLIKASI ||--o{ SISTEM : tersusun
+    PENGGUNA ||--|{ APLIKASI : gunakan
 ```
 ## 4. Arsitektur Sistem
 

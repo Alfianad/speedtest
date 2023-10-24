@@ -1,24 +1,39 @@
 ## 1.1 Latar Belakang
 
-bla bla bla
+Banyak sekali hal di dunia saat ini yang mana sangat membutuhkan sebuah jaringan, mulai dari sesuatu yang biasa kita gunakan sehari hari hingga sesuatu seperti hal kecil seperti televisi dan smartphone. Jaringan menjadi sangat dibutuhkan diera digital ini. Ini menjadi alasan saya membuat aplikasi ini, agar para pengguna dapat mesmatikan kecepatan jaringan yang mereka pakai sebelum digunakan.
 
 ## 1.2. Deksripsi Teknologi Informasi
 
-bla bla bla
+Aplikasi ini digunakan untuk mengecek kecepatan jaringan yang akan digunakan atau jaringan yang sedang diatur atau disetting.
 
 ## 1.3. Branding
 
-bla bla bla
+Merk : limitless
+Tagline : Kecepatan yang dipastikan
+campaign : 
+Target User : 
+        *usia 12+
+        *seorang yang senang mencari informasi terkini
+        *seorang yang gemar bermain game online
+        *seorang teknisi jaringan
+User Experience Theme : 
+        *mudah
+        *cepat
+        *sederhana
+        *inspirasi desain :
 
 ## 2. User Story
 
-bla | bla | bla | bla
+Sebagai | Saya ingin bisa | Sehingga | Prioritas
 ---|---|---|---
-bla | bla | bla | ⭐⭐⭐⭐⭐
+Pengguna | mengecek kecepatan jaringan | bisa melakukan aktifitas daring dengan tenang | ⭐⭐⭐⭐⭐
+|||
+Pengguna | memastikan kestabilan jaringan | bisa bermain game online tanpa khawatir | ⭐⭐⭐⭐⭐
+|||
+Pengguna | membandingkan kecepatan jaringan | bisa memilih jaringan paling cepat dan stabil | ⭐⭐⭐⭐
 
-## 3. Struktur Data
 
-Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
+## 3. Struktur Data 
 
 ```mermaid
 erDiagram
@@ -36,8 +51,7 @@ bla bla bla
 
 ## 6. Desain User Experience dan User Interface
 
-Bisa load image 
-![Contoh](https://fastly.picsum.photos/id/318/536/354.jpg?hmac=Ixy-wle80nudIR_cmnF1iY2y6rMUH7_9sk-BP1fTpM8)
+![Contoh](https://imgur.com/a/fQ0JGuo)
 
 ## 7. Demonstrasi Video
 
@@ -57,4 +71,4 @@ Link youtube nya di detik jawaban ini
 
 ## 11. Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu ?
 
-Link youtube nya di detik jawaban ini
+Link youtube nya di detik jawaban ini 

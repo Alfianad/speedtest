@@ -33,6 +33,11 @@ User Experience Theme :
         *sederhana
         
         *inspirasi desain : 
+![Prototype aplikasi](/inspirasi1.jpg)
+)
+)
+)
+
 
 ## 2. User Story
 
@@ -75,7 +80,8 @@ Teknologi :
 
 ## 6. Desain User Experience dan User Interface
 
-![Prototype aplikasi](/![Desain](https://github.com/Alfianad/speedtest/assets/144650032/7b4a206a-5b5a-4e9f-a16a-f0234c247195)
+![Prototype aplikasi](/Desain.png)
+)
 )
 )
 

@@ -47,7 +47,6 @@ erDiagram
 ## 4. Arsitektur Sistem
 
 ```mermaid
-%%{init: {"flowchart": {"htmlLabels": false}} }%%
 flowchart TD
     markdown["Database - mySQL"] --> markdown ["Aplikasi Web Backend - node.js, javascript"]
     markdown["Aplikasi Web Backend - node.js, javascript"] --> markdown["Web Server - node.js, javascript"]

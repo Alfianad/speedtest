@@ -37,7 +37,7 @@ Pengguna | membandingkan kecepatan jaringan | bisa memilih jaringan paling cepat
 
 ```mermaid
 erDiagram
-    Aplikasi ||--o{ Sistem operasi : tersusun
+    Aplikasi ||--o{ Sistem : tersusun
     Pengguna ||--|{ Aplikasi : gunakan
 ```
 

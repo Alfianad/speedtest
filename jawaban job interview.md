@@ -51,7 +51,6 @@ flowchart TD
     Database - mySQL --> Aplikasi Web Backend - node.js, javascript
     Aplikasi Web Backend - node.js, javascript --> Web Server - node.js, javascript
     Web Server - node.js, javascript --> Aplikasi android - javascript, react native
-
 ```
 
 ## 5. Teknologi, Library, dan Framework

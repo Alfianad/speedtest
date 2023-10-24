@@ -48,9 +48,9 @@ erDiagram
 
 ```mermaid
 flowchart TD
-    Database - mySQL --> Aplikasi Web Backend - node.js, javascript
-    Aplikasi Web Backend - node.js, javascript --> Web Server - node.js, javascript
-    Web Server - node.js, javascript --> Aplikasi android - javascript, react native
+    id1 (Database - mySQL) --> id2 (Aplikasi Web Backend - node.js, javascript)
+    id3 (Aplikasi Web Backend - node.js, javascript) --> id4(Web Server - node.js, javascript)
+    id5(Web Server - node.js, javascript) --> id6(Aplikasi android - javascript, react native)
 ```
 
 ## 5. Teknologi, Library, dan Framework

@@ -75,7 +75,8 @@ Teknologi :
 
 ## 6. Desain User Experience dan User Interface
 
-![Prototype aplikasi](https://![Desain](https://github.com/Alfianad/speedtest/assets/144650032/73647645-4133-45a5-941c-6d2384f6ec91)
+![Prototype aplikasi](/![Desain](https://github.com/Alfianad/speedtest/assets/144650032/7b4a206a-5b5a-4e9f-a16a-f0234c247195)
+)
 )
 
 ## 7. Demonstrasi Video

@@ -9,13 +9,17 @@ Aplikasi ini digunakan untuk mengecek kecepatan jaringan yang akan digunakan ata
 ## 1.3. Branding
 
 Merk : limitless
+
 Tagline : Kecepatan yang dipastikan
-campaign : 
+
+campaign :
+
 Target User : 
         *usia 12+
         *seorang yang senang mencari informasi terkini
         *seorang yang gemar bermain game online
         *seorang teknisi jaringan
+        
 User Experience Theme : 
         *mudah
         *cepat
@@ -44,9 +48,9 @@ erDiagram
 
 ```mermaid
 stateDiagram
-    Database : mySQL --> Aplikasi Web Backend : node.js, javascript
-    Aplikasi Web Backend : node.js, javascript --> Web Server : node.js, javascript
-    Web Server : node.js, javascript --> Aplikasi android : javascript, react native
+    Database : mySQL                            --> Aplikasi Web Backend : node.js, javascript
+    Aplikasi Web Backend : node.js, javascript  --> Web Server : node.js, javascript
+    Web Server : node.js, javascript            --> Aplikasi android : javascript, react native
 
 ```
 

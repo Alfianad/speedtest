@@ -43,7 +43,7 @@ erDiagram
 ## 4. Arsitektur Sistem
 
 ```mermaid
-stateDiagram-v2
+stateDiagram
     Database : mySQL --> Aplikasi Web Backend
     Aplikasi Web Backend : node.js, javascript --> Web Server : node.js, javascript
     Web Server : node.js, javascript --> Aplikasi android : javascript, react native

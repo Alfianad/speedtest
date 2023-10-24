@@ -55,6 +55,11 @@ flowchart TD
 
 ## 5. Teknologi, Library, dan Framework
 
+*Teknologi :
+1. laptop
+2. internet
+
+*Library :
 
 
 ## 6. Desain User Experience dan User Interface

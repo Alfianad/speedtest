@@ -39,17 +39,19 @@ Pengguna | membandingkan kecepatan jaringan | bisa memilih jaringan paling cepat
 erDiagram
     PENGGUNA ||--o{ APLIKASI : gunakan
     PENGGUNA {
+       1 aplikasi
+       2 website
     }
     APLIKASI ||--|{ SISTEM : tersusun
     APLIKASI {
-        speedtest
-        history
-        setting
+        1 speedtest
+        2 history
+        3 setting
     }
     SISTEM {
-        css
-        node.js
-        vscode
+        1 css
+        2 node.js
+        3 vscode
     }
 ```
 ## 4. Arsitektur Sistem

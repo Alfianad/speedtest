@@ -46,7 +46,7 @@ erDiagram
 ```
 ## 4. Arsitektur Sistem
 
-```
+```mermaid
 flowchart TD
     Database - mySQL --> Aplikasi Web Backend - node.js, javascript
     Aplikasi Web Backend - node.js, javascript --> Web Server - node.js, javascript

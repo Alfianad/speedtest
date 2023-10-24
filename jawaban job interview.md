@@ -49,9 +49,9 @@ erDiagram
 ```mermaid
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
 flowchart TD
-    markdown[Database - mySQL] --> markdown [Aplikasi Web Backend - node.js, javascript]
-    markdown[Aplikasi Web Backend - node.js, javascript] --> markdown[Web Server - node.js, javascript]
-    markdown[Web Server - node.js, javascript] --> markdown[Aplikasi android - javascript, react native]
+    markdown["Database - mySQL"] --> markdown ["Aplikasi Web Backend - node.js, javascript"]
+    markdown["Aplikasi Web Backend - node.js, javascript"] --> markdown["Web Server - node.js, javascript"]
+    markdown["Web Server - node.js, javascript"] --> markdown["Aplikasi android - javascript, react native"]
 ```
 
 ## 5. Teknologi, Library, dan Framework

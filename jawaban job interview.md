@@ -40,6 +40,21 @@ erDiagram
     Aplikasi ||--o{ Sistem : tersusun
     Pengguna ||--|{ Aplikasi : gunakan
 ```
+erDiagram
+    PENGGUNA ||--o{ APLIKASI : gunakan
+    PENGGUNA {
+    }
+    APLIKASI ||--|{ SISTEM : tersusun
+    APLIKASI {
+        speedtest
+        history
+        setting
+    }
+    SISTEM {
+        css
+        node.js
+        vscode
+    }
 
 ## 4. Arsitektur Sistem
 

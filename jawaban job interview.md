@@ -44,7 +44,7 @@ erDiagram
 
 ```mermaid
 stateDiagram
-    Database : mySQL --> Aplikasi Web Backend
+    Database : mySQL --> Aplikasi Web Backend : node.js, javascript
     Aplikasi Web Backend : node.js, javascript --> Web Server : node.js, javascript
     Web Server : node.js, javascript --> Aplikasi android : javascript, react native
 ```

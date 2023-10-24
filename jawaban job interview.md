@@ -47,10 +47,11 @@ erDiagram
 ## 4. Arsitektur Sistem
 
 ```mermaid
+%%{init: {"flowchart": {"htmlLabels": false}} }%%
 flowchart TD
-    id1 (Database - mySQL) --> id2 (Aplikasi Web Backend - node.js, javascript)
-    id3 (Aplikasi Web Backend - node.js, javascript) --> id4(Web Server - node.js, javascript)
-    id5(Web Server - node.js, javascript) --> id6(Aplikasi android - javascript, react native)
+    markdown[Database - mySQL] --> markdown [Aplikasi Web Backend - node.js, javascript]
+    markdown[Aplikasi Web Backend - node.js, javascript] --> markdown[Web Server - node.js, javascript]
+    markdown[Web Server - node.js, javascript] --> markdown[Aplikasi android - javascript, react native]
 ```
 
 ## 5. Teknologi, Library, dan Framework

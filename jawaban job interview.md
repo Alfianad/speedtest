@@ -51,7 +51,7 @@ erDiagram
         node.js
         vscode
     }
-
+```
 ## 4. Arsitektur Sistem
 
 Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/syntax/flowchart.html](https://mermaid.js.org/syntax/flowchart.html)

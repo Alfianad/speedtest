@@ -47,10 +47,10 @@ erDiagram
 ## 4. Arsitektur Sistem
 
 ```mermaid
-stateDiagram-v2
-    s2 : Database : mySQL --> Aplikasi Web Backend : node.js, javascript
-    s3 : Aplikasi Web Backend : node.js, javascript --> Web Server : node.js, javascript
-    s4 : Web Server : node.js, javascript --> Aplikasi android : javascript, react native
+flowchart TD
+    Database : mySQL --> Aplikasi Web Backend : node.js, javascript
+    Aplikasi Web Backend : node.js, javascript --> Web Server : node.js, javascript
+    Web Server : node.js, javascript --> Aplikasi android : javascript, react native
 
 ```
 

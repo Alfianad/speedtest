@@ -33,10 +33,7 @@ User Experience Theme :
         *sederhana
         
         *inspirasi desain : 
-![Prototype aplikasi](/inspirasi1.jpg)
-)
-)
-)
+![Prototype aplikasi](/inspirasi1.png)  ![Prototype aplikasi](/inspirasi2.png)  ![Prototype aplikasi](/inspirasi3.png)
 
 
 ## 2. User Story

@@ -33,7 +33,7 @@ User Experience Theme :
         *sederhana
         
         *inspirasi desain : 
-![Prototype aplikasi](/inspirasi1.png)  ![Prototype aplikasi](/inspirasi2.png)  ![Prototype aplikasi](/inspirasi3.png)
+![Prototype aplikasi](/inspirasi.jpg)
 
 
 ## 2. User Story
@@ -73,14 +73,14 @@ Teknologi :
 
 *Library :
        
-       *npm install speedtest-net
+       *speedtest-net
+
+Framework :
+
 
 ## 6. Desain User Experience dan User Interface
 
 ![Prototype aplikasi](/Desain.png)
-)
-)
-)
 
 ## 7. Demonstrasi Video
 

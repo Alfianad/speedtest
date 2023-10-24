@@ -55,7 +55,7 @@ flowchart TD
 
 ## 5. Teknologi, Library, dan Framework
 
-bla bla bla
+
 
 ## 6. Desain User Experience dan User Interface
 

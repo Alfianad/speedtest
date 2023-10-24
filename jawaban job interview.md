@@ -37,8 +37,8 @@ Pengguna | membandingkan kecepatan jaringan | bisa memilih jaringan paling cepat
 
 ```mermaid
 erDiagram
-    RUJAK ||--o{ SAYUR : tersusun
-    PEMBELI ||--|{ RUJAK : beli
+    Aplikasi ||--o{ Sistem operasi : tersusun
+    Pengguna ||--|{ Aplikasi : gunakan
 ```
 
 ## 4. Arsitektur Sistem

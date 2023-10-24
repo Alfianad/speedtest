@@ -39,17 +39,17 @@ Pengguna | membandingkan kecepatan jaringan | bisa memilih jaringan paling cepat
 erDiagram
     PENGGUNA ||--o{ APLIKASI : gunakan
     PENGGUNA {
-        aplikasi
-        website
+        1 aplikasi
+        2 website
     }
     APLIKASI ||--|{ SISTEM : tersusun
     APLIKASI {
-        speedtest
-        histori
+        1 speedtest
+        2 histori
     }
     SISTEM {
-        node.js
-        css
+        1 node.js
+        2 css
     }
 ```
 erDiagram

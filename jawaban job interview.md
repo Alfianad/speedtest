@@ -36,6 +36,7 @@ Pengguna | membandingkan kecepatan jaringan | bisa memilih jaringan paling cepat
 ## 3. Struktur Data 
 
 ```mermaid
+erDiagram
     APLIKASI ||--o{ SISTEM : tersusun
     PENGGUNA ||--|{ APLIKASI : gunakan
 ```

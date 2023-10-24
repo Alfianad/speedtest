@@ -37,6 +37,24 @@ Pengguna | membandingkan kecepatan jaringan | bisa memilih jaringan paling cepat
 
 ```mermaid
 erDiagram
+    CUSTOMER ||--o{ ORDER : places
+    CUSTOMER {
+        string name
+        string custNumber
+        string sector
+    }
+    ORDER ||--|{ LINE-ITEM : contains
+    ORDER {
+        int orderNumber
+        string deliveryAddress
+    }
+    LINE-ITEM {
+        string productCode
+        int quantity
+        float pricePerUnit
+    }
+```
+erDiagram
     PENGGUNA ||--o{ APLIKASI : gunakan
     PENGGUNA {
        1 aplikasi

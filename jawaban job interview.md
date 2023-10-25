@@ -4,7 +4,12 @@ Banyak sekali hal di dunia saat ini yang mana sangat membutuhkan sebuah jaringan
 
 ## 1.2. Deksripsi Teknologi Informasi
 
-Aplikasi ini digunakan untuk mengecek kecepatan jaringan yang akan digunakan atau jaringan yang sedang diatur atau disetting.
+Saya menggunakan beberapa teknologi untuk membangun aplikasi ini, yaitu :
+1. mySQL digunakan untuk mambangun database untuk pengolahan data pada aplikasi yang dibuat
+2. node.js, javascript, dan vscode digunakan untuk membuat backend
+3. node.js dan javascript digunakan untuk web server
+4. figma untuk membuat desain
+5. javascript dan react native untuk menjalankan aplikasi
 
 ## 1.3. Branding
 
@@ -58,9 +63,7 @@ erDiagram
 
 ```mermaid
 flowchart TD
-    markdown["Database - mySQL"] --> markdown ["Aplikasi Web Backend - node.js, javascript"]
-    markdown["Aplikasi Web Backend - node.js, javascript"] --> markdown["Web Server - node.js, javascript"]
-    markdown["Web Server - node.js, javascript"] --> markdown["Aplikasi android - javascript, react native"]
+
 ```
 
 ## 5. Teknologi, Library, dan Framework
@@ -68,7 +71,6 @@ flowchart TD
 Teknologi :
 
        *laptop
-
        *internet
 
 *Library :

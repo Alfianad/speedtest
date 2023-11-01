@@ -63,7 +63,7 @@ erDiagram
 
 ```mermaid
 flowchart TD
-    id1[(Database: MySQL)] <--> id2[Aplikasi Web Backend: node.js - vscode] <--> id3[Web Server: Javascript - node.js]  
+    id1[(Database: MySQL)] <--> id2[Aplikasi Web Backend: node.js - vscode] <--> id3[Web Server: Javascript - node.js]<-->id4[Aplikasi: node.js - react native]  
 ```
 
 ## 5. Teknologi, Library, dan Framework

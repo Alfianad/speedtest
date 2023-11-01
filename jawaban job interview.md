@@ -83,7 +83,7 @@ Framework :
 
 ## 6. Desain User Experience dan User Interface
 
-![Prototype aplikasi](/Desain.png)
+![Prototype aplikasi](/Desain(1).png)
 
 ## 7. Demonstrasi Video
 

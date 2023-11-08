@@ -17,7 +17,7 @@ Merk : limitless
 
 Tagline : Kecepatan yang dipastikan
 
-campaign :
+campaign : Tempat dimana anda bisa memastikan secepat dan selancar apa internet yang anda gunakan, karena kita hidup di era internet menjadi salah satu kebutuhan utama untuk sebagian besar dari kita.
 
 Target User : 
         
@@ -46,11 +46,12 @@ User Experience Theme :
 Sebagai | Saya ingin bisa | Sehingga | Prioritas
 ---|---|---|---
 Pengguna | mengecek kecepatan jaringan | bisa melakukan aktifitas daring dengan tenang | ⭐⭐⭐⭐⭐
-|||
 Pengguna | memastikan kestabilan jaringan | bisa bermain game online tanpa khawatir | ⭐⭐⭐⭐⭐
-|||
+Pengguna | mendeteksi masalah jaringan | bisa memperbaiki secara efektif | ⭐⭐⭐⭐⭐
 Pengguna | membandingkan kecepatan jaringan | bisa memilih jaringan paling cepat dan stabil | ⭐⭐⭐⭐
-
+Pengguna | memilih server terbaik | bisa menggunakan internet paling nyaman | ⭐⭐⭐⭐
+Pengguna | memantau perubahan kinerja | bisa tahu kapan waktu terbaik untuk menggunakannya | ⭐⭐⭐⭐
+Pengguna | memberikan Bukti untuk Keluhan ke Penyedia Layanan | keluhan bisa langsung diperbaiki | ⭐⭐⭐
 
 ## 3. Struktur Data 
 

@@ -78,6 +78,7 @@ Teknologi :
        
        *speedtest-net
        *nodemon
+       #jquery
 
 Framework :
 
